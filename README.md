@@ -26,3 +26,5 @@ The objective of this assignment is to study the impact of various sampling tech
 |KNN|90\.85|87\.91|88\.89|90\.85|89\.22|
 
 ![comparison_graph](images/comparison_graph.png)
+
+#### Random Forest outperformed all other classifiers, achieving the highest accuracy of 99.35% when using Simple Random Sampling.
