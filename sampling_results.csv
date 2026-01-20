@@ -1,0 +1,6 @@
+,Simple Random,Stratified,Systematic,Cluster,Bootstrap
+Logistic Regression,92.16,92.48,92.16,90.85,92.16
+Decision Tree,97.71,96.41,97.06,98.37,97.39
+Random Forest,99.67,100.0,99.67,99.67,99.67
+SVM,64.71,65.36,63.4,71.24,63.73
+KNN,95.42,93.79,94.12,93.79,93.79
