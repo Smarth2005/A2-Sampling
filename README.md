@@ -5,7 +5,11 @@
 ![Methodology](images/methodology.jpeg)
 
 ## 2. Description
+
+<div align="justify">
+  
 The objective of this assignment is to study the impact of various sampling techniques on machine learning model performance. We utilize the Credit Card Fraud dataset, which is originally highly imbalanced. By first balancing the data using SMOTE and then creating samples, we can observe which sampling technique provides the most representative data for training. The results demonstrate that tree-based models like Random Forest perform exceptionally well when trained on representative samples.
+</div>
 
 ## 3. Input / Output
 * **Input:** `Creditcard_data.csv` (Features V1-V28, Amount, Class)
